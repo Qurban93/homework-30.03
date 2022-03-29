@@ -1,0 +1,2 @@
+\+994\d{9} - azerbaycan nomresi standarti 
+\d{2}.\d{2}.\d{4} - dd.mm.yyyy standarti
